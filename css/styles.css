@@ -94,7 +94,7 @@ color: var(--white-color);
 .section-team {
     background-color:#F5F4FA ;
 }
-.hide {
+.section-hide {
     visibility: hidden;
 }
 .section-title {
