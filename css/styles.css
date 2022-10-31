@@ -94,6 +94,9 @@ color: var(--white-color);
 .section-team {
     background-color:#F5F4FA ;
 }
+.hide {
+    visibility: hidden;
+}
 .section-title {
     font-weight: 700;
         font-size: 36px;
